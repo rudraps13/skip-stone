@@ -1,0 +1,59 @@
+SKIP STONE - HOW TO PLAY
+========================
+
+Double-click the "Skip Stone" icon on your desktop.
+Click "Pick up a stone" to start.
+
+
+GOAL
+----
+Throw a flat stone across the lake and make it skip as many times
+as you can. The further it goes, the better.
+
+
+1. THROW
+--------
+- PRESS AND HOLD (mouse button, finger, or SPACE bar).
+- A "Power" bar fills up and empties again, over and over.
+- LET GO when it's full. It turns gold and says "Now!".
+  More power = a longer first throw.
+
+
+2. SKIP
+-------
+While the stone flies, look at the water ahead of it:
+- A small GOLD ring shows where the stone will land.
+- A big WHITE ring shrinks toward it.
+- TAP (click, touch, or SPACE) when the white ring reaches the
+  gold ring, right as the stone touches the water.
+
+  "Perfect!"     = great timing. The stone stays fast and bounces high.
+  "Skip!"        = good timing. It skips, but loses some speed.
+  "Just in time" = a tiny bit late, but it still skips.
+  "Too early" or "Too late" = the stone sinks.
+
+You get ONE tap per bounce, so don't tap too early.
+
+
+3. THE END
+----------
+Each skip is smaller and quicker than the last. When the stone runs
+out of bounce, it glides to a stop. You'll see your skips, distance
+and number of perfects. Your best distance is saved.
+
+
+SOUND
+-----
+The game has sound: lake waves, birds, the wind-up, splashes, a
+sparkle on perfect skips, a plunk when the stone sinks, and a little
+tune when you beat your best.
+- Sound starts after your first click or tap (browsers require this).
+- The "Sound on / Sound off" button at the top right mutes it.
+
+
+TIPS
+----
+- Let go when the power bar is gold.
+- Watch the rings, not the stone.
+- The last few bounces come very fast. Keep your rhythm.
+- Distance posts in the water show every 10 metres.
